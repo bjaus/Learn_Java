@@ -12,4 +12,7 @@ class ForVar {
 		
 		// but, i is not knwow here
 		
-		
+		System.out.println("Sum is " + sum);
+		System.out.println("Factorial is " + fact);
+	}
+}
